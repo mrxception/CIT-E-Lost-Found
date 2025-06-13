@@ -1,0 +1,10 @@
+<?php
+$_ENV['CLOUDINARY_CLOUD_NAME'] = '';
+$_ENV['CLOUDINARY_API_KEY'] = '';
+$_ENV['CLOUDINARY_API_SECRET'] = '';
+
+putenv('CLOUDINARY_CLOUD_NAME=');
+putenv('CLOUDINARY_API_KEY=');
+putenv('CLOUDINARY_API_SECRET=');
+
+?>
